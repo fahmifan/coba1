@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Seorang mahasiswa yang sedang belajar menjadi Internet Markete
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[fahmiirfan909@gmail.com](mailto:fahmiirfan909@gmail.com)
