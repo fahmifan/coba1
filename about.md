@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Seorang mahasiswa yang sedang belajar menjadi Internet Markete
+Seorang mahasiswa yang sedang belajar menjadi Internet Marketer amiin...
 
 ### Contact me
 
