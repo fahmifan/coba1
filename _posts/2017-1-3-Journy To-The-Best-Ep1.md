@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JOURNY TO THE BEST Eps #1 - Mulai FB ads serius
+title: JOURNY TO THE BEST Eps 1 - Mulai FB ads serius
 ---
 
 Assalamua'alikum,
