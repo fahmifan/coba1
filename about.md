@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Seorang mahasiswa yang sedang belajar menjadi Internet Marketer amiin...
+A web enthusiast, currently working on react project, students at University of Padjadjaran
 
 ### Contact me
 
