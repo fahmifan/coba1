@@ -1,10 +1,13 @@
-_site
-.DS_Store
-.jekyll
-.jekyll-metadata
-.bundle
-.sass-cache
-Gemfile
-Gemfile.lock
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
 node_modules
-package.json
+
+# Optional npm cache directory
+.npm
+
+# Prod Bundle
+build
