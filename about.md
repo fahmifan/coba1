@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-A web enthusiast, currently working on react project, students at University of Padjadjaran
+A passionate junior developer. 
+Students at University of Padjadjaran.
+Learning GO & ReactJs
 
 ### Contact me
 
